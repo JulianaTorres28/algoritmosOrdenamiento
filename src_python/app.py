@@ -1,6 +1,6 @@
 # app.py
 from src_python.benchmarking import Benchmarking
-from grafica import plot_graph
+from src_python.grafica import plot_graph
 
 def main():
     benchmarking = Benchmarking()
